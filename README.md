@@ -12,6 +12,7 @@ Bitcoin (精通比特幣)
 
  b.建立GCP上的虛擬機  https://youtu.be/oAqH3NzXP7I
 
+docker run -it --rm -p 8080:80 -p 8333:8333 -v $HOME/data:/root/.bitcoin rslu2000/ubuntu-desktop-lxde-vnc-bitcoin-qt
 
 3.查詢以下地址：1APtYTnTxVG1HEt9b7V4pyA4JDgwtDqjvV
 
