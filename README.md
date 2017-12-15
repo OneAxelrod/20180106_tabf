@@ -15,12 +15,12 @@ Bitcoin (精通比特幣)
 docker run -it --rm -p 8080:80 -p 8333:8333 -v $HOME/data:/root/.bitcoin rslu2000/ubuntu-desktop-lxde-vnc-bitcoin-qt
 
 3. 比特幣也是一種區塊鏈2.0的平台
-    http://rslu.blogspot.tw/2017/10/20.html
-請學員們練習查詢以下的連結內容：
-I.  https://blockchain.info/tx/b252e9776ec36569b5c14212bf4275e8e96759cc2dcf36cb05fc7e0c70d47c87
+    http://rslu.blogspot.tw/2017/10/20.html <br>
+請學員們練習查詢以下的連結內容：<br>
+I.  https://blockchain.info/tx/b252e9776ec36569b5c14212bf4275e8e96759cc2dcf36cb05fc7e0c70d47c87 <br>
 II.
 https://blockchain.info/tx/b8a78a224e5bd67947f2947038545294e87e8e6f7c586fea96be42661aaa401a
-或查詢以下地址：1APtYTnTxVG1HEt9b7V4pyA4JDgwtDqjvV
+<br>或查詢以下地址：1APtYTnTxVG1HEt9b7V4pyA4JDgwtDqjvV
 
 
 4.實作四 200行程式碼的迷你區塊鏈 
