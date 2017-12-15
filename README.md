@@ -1,6 +1,6 @@
-# 20170819Blackboard盧老師教學用線上黑板
+# 2017_12_16_Blackboard_盧老師教學用線上黑板
 
-1.盧老師附贈一本 盧老師在大學開授「虛擬貨幣與區塊鏈技術」的上課指定教科書：Mastering 
+1.盧瑞山老師附贈一本 盧老師在大學開授「虛擬貨幣與區塊鏈技術」的上課指定教科書：Mastering 
 Bitcoin (精通比特幣)
 
 此書有多種語言翻譯版本，英文版由O'Rilly出版社出版。 其他語言由作者依C.C授權免費開放給其他語言自由翻譯
@@ -14,7 +14,13 @@ Bitcoin (精通比特幣)
 
 docker run -it --rm -p 8080:80 -p 8333:8333 -v $HOME/data:/root/.bitcoin rslu2000/ubuntu-desktop-lxde-vnc-bitcoin-qt
 
-3.查詢以下地址：1APtYTnTxVG1HEt9b7V4pyA4JDgwtDqjvV
+3. 比特幣也是一種區塊鏈2.0的平台
+    http://rslu.blogspot.tw/2017/10/20.html
+請學員們練習查詢以下的連結內容：
+I.  https://blockchain.info/tx/b252e9776ec36569b5c14212bf4275e8e96759cc2dcf36cb05fc7e0c70d47c87
+II.
+https://blockchain.info/tx/b8a78a224e5bd67947f2947038545294e87e8e6f7c586fea96be42661aaa401a
+或查詢以下地址：1APtYTnTxVG1HEt9b7V4pyA4JDgwtDqjvV
 
 
 4.實作四 200行程式碼的迷你區塊鏈 
@@ -23,7 +29,7 @@ docker run -it --rm -p 8080:80 -p 8333:8333 -v $HOME/data:/root/.bitcoin rslu200
 https://youtu.be/BHlkT6-52QI 
 
 
-2017/10/13 實作五 教學影片:
+實作五 教學影片:
 hyperledgerFabric-v0.6-01-IBM Bluemix上的Fabric試用範例. https://youtu.be/GFMOXGU1Ns0
 
 hyperledgerFabric-v0.6-02-共識系統的觀念解說 (20:06) https://youtu.be/yl9Hagy2oO8
