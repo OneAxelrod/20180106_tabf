@@ -27,7 +27,9 @@ https://blockchain.info/tx/b8a78a224e5bd67947f2947038545294e87e8e6f7c586fea96be4
 
 實作-如何將兩個原本獨立的迷你區塊鏈連結成一個聯盟鏈   
 https://youtu.be/BHlkT6-52QI 
-
+<br>
+curl -H "Content-type:application/json" --data '{"data" : "興農農藥化學廠出貨2頓氰化鉀"}' http://104.199.143.209:3001/mineBlock <br>
+curl -H "Content-type:application/json" --data '{"data" : "興農農藥化學廠出貨1頓“孔雀綠”給長榮化工高雄廠"}' http://104.199.143.209:3002/mineBlock <br>
 
 實作五 教學影片:
 hyperledgerFabric-v0.6-01-IBM Bluemix上的Fabric試用範例. https://youtu.be/GFMOXGU1Ns0
